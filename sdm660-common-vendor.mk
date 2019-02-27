@@ -40,7 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sdm660-common/proprietary/framework/com.quicinc.cne.server-V2.1-java.jar:system/framework/com.quicinc.cne.server-V2.1-java.jar \
     vendor/motorola/sdm660-common/proprietary/framework/com.quicinc.cne.server-V2.2-java.jar:system/framework/com.quicinc.cne.server-V2.2-java.jar \
     vendor/motorola/sdm660-common/proprietary/vendor/framework/qcrilhook.jar:$(TARGET_COPY_OUT_VENDOR)/framework/qcrilhook.jar \
-    vendor/motorola/sdm660-common/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/motorola/sdm660-common/proprietary/framework/vendor.qti.data.factory-V1.0-java.jar:system/framework/vendor.qti.data.factory-V1.0-java.jar \
     vendor/motorola/sdm660-common/proprietary/framework/vendor.qti.hardware.data.dynamicdds-V1.0-java.jar:system/framework/vendor.qti.hardware.data.dynamicdds-V1.0-java.jar \
     vendor/motorola/sdm660-common/proprietary/framework/vendor.qti.hardware.data.latency-V1.0-java.jar:system/framework/vendor.qti.hardware.data.latency-V1.0-java.jar \
