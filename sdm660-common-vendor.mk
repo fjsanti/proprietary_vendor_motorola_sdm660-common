@@ -20,6 +20,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sdm660-common/proprietary/etc/permissions/unavail.com.motorola.hardware.dtv.xml:system/etc/permissions/unavail.com.motorola.hardware.dtv.xml \
     vendor/motorola/sdm660-common/proprietary/lib/libdtvtuner.so:system/lib/libdtvtuner.so \
     vendor/motorola/sdm660-common/proprietary/lib64/libdtvtuner.so:system/lib64/libdtvtuner.so \
+    vendor/motorola/sdm660-common/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
+    vendor/motorola/sdm660-common/proprietary/lib/libmmcamera_faceproc2.so:system/lib/libmmcamera_faceproc2.so \
+    vendor/motorola/sdm660-common/proprietary/lib64/libmmcamera_faceproc.so:system/lib64/libmmcamera_faceproc.so \
+    vendor/motorola/sdm660-common/proprietary/lib64/libmmcamera_faceproc2.so:system/lib64/libmmcamera_faceproc2.so \
     vendor/motorola/sdm660-common/proprietary/lib/libcamerabgprocservice.so:system/lib/libcamerabgprocservice.so \
     vendor/motorola/sdm660-common/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
     vendor/motorola/sdm660-common/proprietary/lib/libcamerabgproc-jni.so:/system/lib/libcamerabgproc-jni.so: \
