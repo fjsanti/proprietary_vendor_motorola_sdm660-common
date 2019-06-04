@@ -16,28 +16,28 @@
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/sdm660-common/proprietary/framework/com.qti.snapdragon.sdk.display.jar:system/framework/com.qti.snapdragon.sdk.display.jar \
-    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.2.so:system/lib64/vendor.display.config@1.2.so \
+#    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.2.so:system/lib64/vendor.display.config@1.2.so \
     vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.postproc@1.0.so:system/lib64/vendor.display.postproc@1.0.so \
-    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.3.so:system/lib64/vendor.display.config@1.3.so \
-    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.color@1.2.so:system/lib64/vendor.display.color@1.2.so \
-    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.color@1.1.so:system/lib64/vendor.display.color@1.1.so \
+#    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.3.so:system/lib64/vendor.display.config@1.3.so \
+#   vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.color@1.2.so:system/lib64/vendor.display.color@1.2.so \
+#    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.color@1.1.so:system/lib64/vendor.display.color@1.1.so \
     vendor/motorola/sdm660-common/proprietary/lib64/libdisplayservicehidl.so:system/lib64/libdisplayservicehidl.so \
     vendor/motorola/sdm660-common/proprietary/lib64/libsd_sdk_display.so:system/lib64/libsd_sdk_display.so \
-    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.color@1.0.so:system/lib64/vendor.display.color@1.0.so \
-    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.1.so:system/lib64/vendor.display.config@1.1.so \
-    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.5.so:system/lib64/vendor.display.config@1.5.so \
-    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.4.so:system/lib64/vendor.display.config@1.4.so \
+#    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.color@1.0.so:system/lib64/vendor.display.color@1.0.so \
+#    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.1.so:system/lib64/vendor.display.config@1.1.so \
+#    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.5.so:system/lib64/vendor.display.config@1.5.so \
+#    vendor/motorola/sdm660-common/proprietary/lib64/vendor.display.config@1.4.so:system/lib64/vendor.display.config@1.4.so \
     vendor/motorola/sdm660-common/proprietary/lib/android.frameworks.displayservice@1.0.so:system/lib/android.frameworks.displayservice@1.0.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.2.so:system/lib/vendor.display.config@1.2.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.postproc@1.0.so:system/lib/vendor.display.postproc@1.0.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.3.so:system/lib/vendor.display.config@1.3.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.color@1.2.so:system/lib/vendor.display.color@1.2.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.color@1.1.so:system/lib/vendor.display.color@1.1.so \
+#    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.2.so:system/lib/vendor.display.config@1.2.so \
+   vendor/motorola/sdm660-common/proprietary/lib/vendor.display.postproc@1.0.so:system/lib/vendor.display.postproc@1.0.so \
+#    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.3.so:system/lib/vendor.display.config@1.3.so \
+#    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.color@1.2.so:system/lib/vendor.display.color@1.2.so \
+#   vendor/motorola/sdm660-common/proprietary/lib/vendor.display.color@1.1.so:system/lib/vendor.display.color@1.1.so \
     vendor/motorola/sdm660-common/proprietary/lib/libsd_sdk_display.so:system/lib/libsd_sdk_display.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.color@1.0.so:system/lib/vendor.display.color@1.0.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.1.so:system/lib/vendor.display.config@1.1.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.5.so:system/lib/vendor.display.config@1.5.so \
-    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.4.so:system/lib/vendor.display.config@1.4.so \
+#    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.color@1.0.so:system/lib/vendor.display.color@1.0.so \
+#    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.1.so:system/lib/vendor.display.config@1.1.so \
+#    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.5.so:system/lib/vendor.display.config@1.5.so \
+#    vendor/motorola/sdm660-common/proprietary/lib/vendor.display.config@1.4.so:system/lib/vendor.display.config@1.4.so \
     vendor/motorola/sdm660-common/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/etc/permissions/com.qti.snapdragon.sdk.display.xml \
     vendor/motorola/sdm660-common/proprietary/etc/permissions/com.motorola.hardware.dtv.xml:system/etc/permissions/com.motorola.hardware.dtv.xml \
     vendor/motorola/sdm660-common/proprietary/etc/permissions/mot_dtv_permissions.xml:system/etc/permissions/mot_dtv_permissions.xml \
